@@ -3,7 +3,9 @@
 *If you find any issues/bugs related to a specific mod, use their Issue Tracker. Only use this Issue Tracker if it's pack related.*
 
 **Latest Release:**\
+*MultiMC:*
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.1/All.of.Fabric.1.2.1.zip \
+*Server:*
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.1/All.of.Fabric.Server.1.2.1.rar
 
 **Changelogs & releases:**\

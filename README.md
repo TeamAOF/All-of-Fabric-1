@@ -16,7 +16,8 @@ https://github.com/AK9Official/All-of-Fabric/releases
 1. Download MultiMC at https://multimc.org/
 2. Log into your Mojang account.
 3. Import the Zip provided above or copy the URL and paste it into MultiMC.
-4. Play & break mods.
+4. Play & break mods.\
+**Video Tutorial by Niche Duck:** https://www.youtube.com/watch?v=M633Qm86tqk
 
 **HOW TO INSTALL SERVER**
 1. Download the All of Fabric Server files above.

@@ -6,7 +6,7 @@
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.1.2.0.zip \
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.Server.1.2.0.rar
 
-**Changelogs & builds:**\
+**Changelogs & releases:**\
 https://github.com/AK9Official/All-of-Fabric/releases 
 
 

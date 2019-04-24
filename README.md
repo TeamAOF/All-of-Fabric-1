@@ -47,7 +47,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Dumpster (0.2.0)
 + Dwarf Coal (1.3.0)
 + Easy Excavate (1.3.0)
-+ Epicurean-Gastronomy (2.1.1)
++ Epicurean Gastronomy (2.1.1)
 + Extra Pieces (1.2.0)
 + Fabric Furnaces (1.0.1)
 + Fabric Magnet (1.0.1)

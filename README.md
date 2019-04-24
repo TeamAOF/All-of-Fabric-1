@@ -3,8 +3,8 @@
 *If you find any issues/bugs related to a specific mod, use their Issue Tracker. Only use this Issue Tracker if it's pack related.*
 
 **Latest Release:**\
-https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.1.2.0.zip \
-https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.Server.1.2.0.rar (Server crash fixed in 1.2.1)
+https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.1/All.of.Fabric.1.2.1.zip \
+https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.1/All.of.Fabric.Server.1.2.1.rar
 
 **Changelogs & releases:**\
 https://github.com/AK9Official/All-of-Fabric/releases 
@@ -38,6 +38,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Coal Nugget (1.0.0.1)
 + Composable Automation (0.2.0)
 + Cookies Plus (1.0.0.5)
++ Crafting Pad (1.0.1)
 + Cursed Chests (1.1.9)
 + Dulce De Leche (1.2.2-30)
 + Dumpster (0.2.0)

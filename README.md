@@ -79,4 +79,4 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Cotton (0.6.1)
 + Fabric API (0.2.7 build 127)
 + Fabric Language Kotlin (1.3.30 Build 2)\
-**Currently has a total of 59 Mods**
+**Currently has a total of 60 Mods**

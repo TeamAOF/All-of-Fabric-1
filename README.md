@@ -15,7 +15,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 **HOW TO INSTALL MODPACK**
 1. Download MultiMC at https://multimc.org/
 2. Log into your Mojang account.
-3. Import the Zip provided above.
+3. Import the Zip provided above or copy the URL and paste it into MultiMC.
 4. Play & break mods.
 
 **HOW TO INSTALL SERVER**

@@ -1,11 +1,11 @@
 # All of Fabric
 *Modpack containing the latest &amp; best Fabric mods!*
 
-**Latest Release**\
+**Latest Release:**\
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.1.2.0.zip \
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.2.0/All.of.Fabric.Server.1.2.0.rar
 
-**Changelogs & builds**\
+**Changelogs & builds:**\
 https://github.com/AK9Official/All-of-Fabric/releases
 
 

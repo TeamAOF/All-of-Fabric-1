@@ -31,7 +31,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 **MODS** 
 + Amethyst Mod (1.0.0)
 + Animal Net (1.5)
-+ Apple Skin (1.0.4)
++ Apple Skin (1.0.5)
 + Aquarius (1.3.0)
 + ArcaneMagic (1.0 Beta 2)
 + Battle Towers (1.0.3)
@@ -50,7 +50,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Dumpster (0.2.0)
 + Dwarf Coal (1.3.0)
 + Easy Excavate (1.3.0)
-+ Epicurean Gastronomy (2.1.1)
++ Epicurean Gastronomy (2.1.3)
 + Extra Pieces (1.2.0)
 + Fabric Furnaces (1.1.0)
 + Fabric Magnet (1.0.1)

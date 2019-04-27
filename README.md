@@ -60,6 +60,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Fabric Magnet (1.0.1)
 + Furnace XP Drop (1.0.3)
 + GamemodeOverhaul (1.0.0.2)
++ Grid (0.2.7)
 + Simple Harvest (1.0.4)
 + Hwyla (1.9.16-60)
 + I Am Very Smart (1.0.0)

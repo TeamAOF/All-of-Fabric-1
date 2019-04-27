@@ -97,4 +97,4 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Fabric Loader (0.4.3 Build 134)
 + Yarn (1.14 Build 3)\
 \
-**Currently has a total of 68 Mods**
+**Currently has a total of 69 Mods**

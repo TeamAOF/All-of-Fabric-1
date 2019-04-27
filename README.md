@@ -71,6 +71,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Mouse Wheelie (1.0.8)
 + Ping (1.0.1)
 + REI Addons (1.1.0)
++ Retro Exchange (2.1.0)
 + Rougly Enough Items (2.7.11.97)
 + Shulker Box Tooltip (1.2.0)
 + Simple Teleporters (1.1.0)

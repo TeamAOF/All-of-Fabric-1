@@ -85,6 +85,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Vanilla Hammers (1.1.1)
 + Vanilla Toolsets (1.1.1)
 + Variable Paxels (0.0.1)
++ Wool (1.2.5)
 
 **APIs**
 + Auto Config API (1.0.0)
@@ -97,4 +98,4 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Fabric Loader (0.4.3 Build 134)
 + Yarn (1.14 Build 3)\
 \
-**Currently has a total of 69 Mods**
+**Currently has a total of 70 Mods**

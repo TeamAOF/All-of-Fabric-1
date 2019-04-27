@@ -45,7 +45,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Composable Automation (0.2.0)
 + Cookies Plus (1.0.0.5)
 + Crafting Pad (1.0.3)
-+ Cursed Chests (1.1.9)
++ Cursed Chests (1.1.10)
 + Dulce De Leche (1.2.2-30)
 + Dumpster (0.2.0)
 + Dwarf Coal (1.3.0)

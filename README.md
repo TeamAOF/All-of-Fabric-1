@@ -29,6 +29,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 4. Start again & play.
 
 **MODS** 
++ Adorn (0.1.0)
 + Amethyst Mod (1.0.0)
 + Animal Net (1.5)
 + Apple Skin (1.0.5)
@@ -42,6 +43,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Clothesline (0.0.16)
 + Clothesline Motor (1.0)
 + Coal Nugget (1.0.0.1)
++ Coda Tech (1.0)
 + Composable Automation (0.2.0)
 + Cookies Plus (1.0.0.5)
 + Crafting Pad (1.0.3)
@@ -81,21 +83,25 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Stockpile (1.0.1)
 + Target Dummy (1.0.1)
 + The Biome Overhaul (1.0.1)
++ This And That (0.1.2)
 + Vanilla Death Chest (1.9.2.0)
 + Vanilla Hammers (1.1.1)
 + Vanilla Toolsets (1.1.1)
 + Variable Paxels (0.0.1)
 + Wool (1.2.5)
 
-**APIs**
+**APIs & LIBs**
 + Auto Config API (1.0.0)
 + Cloth Config API (0.2.1 Build 14)
 + Cotton (0.6.1)
 + Fabric API (0.2.7 build 127)
 + Fabric Language Kotlin (1.3.30 Build 2)
++ Lib Block Attributes (0.4.0)
++ Polyester (0.1.0)
++ Towelette (1.5.2)
 
 **FABRIC**
-+ Fabric Loader (0.4.3 Build 134)
++ Fabric Loader (0.4.4 Build 138)
 + Yarn (1.14 Build 3)\
 \
-**Currently has a total of 70 Mods**
+**Currently has a total of 76 Mods**

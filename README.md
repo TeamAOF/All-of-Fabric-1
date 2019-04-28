@@ -58,6 +58,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Fabri Blocks (1.1.3)
 + Fabric Furnaces (1.1.0)
 + Fabric Magnet (1.0.1)
++ FoamFix (0.12.1)
 + Furnace XP Drop (1.0.3)
 + GamemodeOverhaul (1.0.0.2)
 + Grid (0.2.7)
@@ -78,6 +79,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Retro Exchange (2.1.0)
 + Rougly Enough Items (2.7.11.97)
 + Shulker Box Tooltip (1.2.0)
++ Silky Spawners (1.0.2)
 + Simple Teleporters (1.1.0)
 + Simple Void World (2.0.5)
 + Blayyke's Smooth Bedrock (1.0)
@@ -107,4 +109,4 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Fabric Loader (0.4.4 Build 139)
 + Yarn (1.14 Build 3)\
 \
-**Currently has a total of 79 Mods**
+**Currently has a total of 83 Mods**

@@ -81,7 +81,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Simple Teleporters (1.1.0)
 + Simple Void World (2.0.5)
 + Blayyke's Smooth Bedrock (1.0)
-+ Sodden (1.0.0.0)
++ Sodden (1.0.0.2)
 + Stockpile (1.0.1)
 + Target Dummy (1.0.1)
 + The Biome Overhaul (1.1.1)

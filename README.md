@@ -69,6 +69,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Lead Villagers (0.3.0)
 + Level Up HP (4.0.0)
 + Lil Tater (1.0.2)
++ Meta Tips (1.1.3)
 + Miners Horizon (1.0.2)
 + Modded Items (1.0.0)
 + Mod Menu (1.4.2-77)

@@ -31,7 +31,6 @@ https://github.com/AK9Official/All-of-Fabric/releases
 **MODS** 
 + Adorn (0.1.0)
 + Amethyst Mod (1.0.0)
-+ Animal Net (1.5)
 + Apple Skin (1.0.5)
 + Aquarius (1.3.0)
 + ArcaneMagic (1.0 Beta 2)
@@ -48,6 +47,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Cookies Plus (1.0.0.5)
 + Crafting Pad (1.0.3)
 + Cursed Chests (1.1.10)
++ Data Loader (0.4.0)
 + Dulce De Leche (1.2.2-30)
 + Dumpster (0.2.0)
 + Durability Viewer (1.5)
@@ -86,6 +86,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Target Dummy (1.0.1)
 + The Biome Overhaul (1.1.1)
 + This And That (0.1.2)
++ TIS 3D (1.5.0.4)
 + Vanilla Death Chest (1.9.2.1)
 + Vanilla Hammers (1.1.1)
 + Vanilla Toolsets (1.1.1)

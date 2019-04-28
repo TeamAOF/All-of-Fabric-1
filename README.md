@@ -44,7 +44,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Clothesline Motor (1.0)
 + Coal Nugget (1.0.0.1)
 + Coda Tech (1.0)
-+ Composable Automation (0.2.0)
++ Composable Automation (0.2.1)
 + Cookies Plus (1.0.0.5)
 + Crafting Pad (1.0.3)
 + Cursed Chests (1.1.10)

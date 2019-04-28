@@ -40,7 +40,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + Carved Melons (1.2.0)
 + Chunk Activator (0.4.0)
 + Clothesline (0.0.16)
-+ Clothesline Motor (1.0)
++ Clothesline Motor (1.1)
 + Coal Nugget (1.0.0.1)
 + Coda Tech (1.0)
 + Composable Automation (0.2.1)

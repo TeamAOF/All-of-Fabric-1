@@ -29,8 +29,8 @@ https://github.com/AK9Official/All-of-Fabric/releases
 4. Start again & play.
 
 **MODS** 
-+ Adorn (0.1.0)
-+ Amethyst Mod (1.0.0)
++ Adorn (0.1.2)
++ Amethyst Mod (1.0.1)
 + Apple Skin (1.0.5)
 + Aquarius (1.3.0)
 + ArcaneMagic (1.0 Beta 2)

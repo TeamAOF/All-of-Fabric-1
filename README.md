@@ -6,10 +6,18 @@
 *All of Fabric Discord Server: https://discord.gg/6rkdm48*
 
 **Latest Release:**\
+
+**NORMAL MODE**
 *MultiMC:*
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.3.1/All.of.Fabric.1.3.1.zip **(1.3.1)**\
 *Server:*
 https://github.com/AK9Official/All-of-Fabric/releases/download/1.3.1/All.of.Fabric.Server.1.3.1.rar **(1.3.1)**
+
+**EXPERT MODE**
+*MultiMC:*
+https://github.com/AK9Official/All-of-Fabric/releases/download/2.0.0/All.of.Fabric-.Expert.v2.0.0alpha.zip **(2.0.0)**\
+*Server:*
+
 
 **Changelogs & releases:**\
 https://github.com/AK9Official/All-of-Fabric/releases 

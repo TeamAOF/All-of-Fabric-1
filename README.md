@@ -7,9 +7,9 @@
 
 **Latest Release:**\
 *MultiMC:*
-https://github.com/AK9Official/All-of-Fabric/releases/download/2.1.1/All.of.Fabric.v2.1.1.zip **(2.1.1)**\
+https://github.com/AK9Official/All-of-Fabric/releases/download/2.2.0/All.of.Fabric.v2.2.0.zip **(2.2.0)**\
 *Server:*
-https://github.com/AK9Official/All-of-Fabric/releases/download/2.1.1/All.of.Fabric.Server.v2.1.1.rar **(2.1.1)**
+https://github.com/AK9Official/All-of-Fabric/releases/download/2.2.0/All.of.Fabric.Server.v2.2.0.rar **(2.2.0)**
 
 
 **Changelogs & releases:**\

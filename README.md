@@ -175,3 +175,4 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + API: 0.3.0 Build 157a
 + Loader: 0.4.8 Build 154
 + Mappings: 1.14.1 Build 10
+

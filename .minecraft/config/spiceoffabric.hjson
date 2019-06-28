@@ -13,7 +13,7 @@
 		// Specifies an expression for how many foods a player needs to eat to earn the next heart.
 		// The result resembles the absolute amount of unique food.
 		// default: 2*pow(2, heartAmount - 6)
-		unlock-rule: 3*pow(1, heartAmount - 4)
+		unlock-rule: 3*(heartAmount - 4)
 	}
 	// Here can you edit the used expressions used for calculating the food stats.
 	// Expressions are simple mathematical terms with the following variables:

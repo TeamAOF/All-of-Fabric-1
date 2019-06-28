@@ -38,7 +38,7 @@ https://github.com/AK9Official/All-of-Fabric/releases
 + [Apple Skin](https://minecraft.curseforge.com/projects/appleskin)
 + [Aquarius](https://minecraft.curseforge.com/projects/aquarius)
 + [Auto Config](https://minecraft.curseforge.com/projects/auto-config)
-+ [Arcane Magic](https://minecraft.curseforge.com/projects/arcanemagic)
++ [Arcane Magic](https://minecraft.curseforge.com/projects/arcanemagic) 
 + [Auto Fish](https://minecraft.curseforge.com/projects/autofish)
 + [BetterBamboo](https://minecraft.curseforge.com/projects/betterbamboo)
 + [Draylar's Battle Towers](https://minecraft.curseforge.com/projects/draylars-battle-towers)

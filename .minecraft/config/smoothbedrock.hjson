@@ -1,0 +1,11 @@
+{ 
+	// Set to false to make the dimension whitelist act as a blacklist.
+	"isWhitelist": true,
+	/* A list of dimension ids that this mod should filter based on the 'Act as whitelist' setting.
+	   Modded dimensionFilter will need to be added here to be affected.
+	*/
+	"dimensionFilter": [ 
+		"minecraft:overworld",
+		"minecraft:the_nether"
+	]
+}

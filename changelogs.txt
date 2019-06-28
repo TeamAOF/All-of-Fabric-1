@@ -1,0 +1,40 @@
+***Changelog of 3.0.0***
+
+<h2>UPDATED TO 1.14.2, Will break worlds.</h2>
+<h3>Removes ore chunks and rocks, be sure to extract everything before updating!</h3>
+
+
+**Added**
++ Viva Tech
++ Fabric Controlling
++ Everything is a Hat
++ Soul Shards Respawn
++ Fabric Toys
++ Cotton Resources
++ Mpcs' Backpacks
++ Materialisation
++ Animal Net
++ Spice of Fabric
++ Item Scroller
++ Canvas Renderer
++ Press To Walk
++ Hwyla
++ Earthworks
+
+**Removed**
++ The One Probe
++ Pehkui
++ Immersive Underground
+
+
+**Changed**
++ Max claimed chunks buffed 10 > 20.
++ You can now excavate all blocks.
+
+**Fixed**
++ CTRL button opening Craft Presence
++ Ore gen should be 100% working now & also work in both the Pulverizer & Crusher.
+
+
+**Updated**
++ WAY TOO MANY

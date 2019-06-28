@@ -1,0 +1,8 @@
+#Player Graves Config File
+
+#Allow the player head to render on top of a grave
+#This can be configured only client side
+render-skull: true
+
+#Make a grave act as a skeleton spawner
+grave-spawner: false

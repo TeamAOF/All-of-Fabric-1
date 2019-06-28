@@ -1,0 +1,43 @@
+{
+  "EnableAutoSmelt": true,
+  "EnableEnderProtection": true,
+  "EnablePotionRetention": true,
+  "EnableTamedProtection": true,
+  "EnableTreeFeller": true,
+  "EnableVeinMiner": true,
+  "VeinMinerMaxBreakByLvl": [
+    7,
+    14,
+    28
+  ],
+  "TreeFellerMaxBreakByLvl": [
+    7,
+    14,
+    28
+  ],
+  "MaxDistanceFromPlayer": 8,
+  "ProtectItemFromBreaking": true,
+  "AutoSmeltWoodModifier": 0.15,
+  "TameProtectsOnlyYourAnimals": true,
+  "chanceForEnderCurseToTeleport": 40,
+  "chanceForEnderCurseToPreventDamage": 20,
+  "perLevelChargeMultiplierForPotionRetention": 5,
+  "PotionRetentionMaxLevel": 10,
+  "veinMinerBlockWhiteList": [
+    "minecraft:obsidian",
+    "refinedmachinery:copper_ore",
+    "refinedmachinery:lead_ore",
+    "refinedmachinery:silver_ore",
+    "refinedmachinery:tin_ore",
+    "refinedmachinery:nickel_ore"
+  ],
+  "veinMinerClassWhiteList": [
+    "com.brand.netherthings.blocks.BlockOre",
+    "com.brand.netherthings.blocks.BlockGlowOre",
+    "abused_master.superores.blocks.BlockOreBase",
+    "io.github.cottonmc.resources.LayeredOreBlock"
+  ],
+  "AutoSmeltBlackList": [
+    "minecraft:stone"
+  ]
+}

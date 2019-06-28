@@ -1,0 +1,12 @@
+{ 
+	// Tweak that makes placed campfires not be lit by default.
+	"enableCampfireTweak": true,
+	// Tweak that allows harvesting crops when right clicked.
+	"enableCropHarvestTweak": true,
+	/* The timeout that players are kicked after when a keepalive has not been received in the time period.
+	   The default for vanilla is 15000.
+	*/
+	"keepaliveTimeout": 15000,
+	// Should the mod log when a player is timed out.
+	"logOnTimeout": true
+}

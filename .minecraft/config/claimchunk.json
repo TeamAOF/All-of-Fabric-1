@@ -1,0 +1,8 @@
+{
+  "prevent_using_blocks": true,
+  "prevent_using_items": true,
+  "prevent_breaking_blocks": true,
+  "prevent_building": true,
+  "prevent_attacking_entities": true,
+  "max_claims": 10
+}

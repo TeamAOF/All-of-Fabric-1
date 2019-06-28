@@ -1,0 +1,7 @@
+{ 
+	"TOTEM_BLACK_LIST": null,
+	"BIOME_BLACK_LIST": [ 
+		"river"
+	],
+	"BIOME_WHITE_LIST": null
+}

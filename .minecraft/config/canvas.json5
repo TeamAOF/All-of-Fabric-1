@@ -1,0 +1,38 @@
+{ 
+	// Applies material properties and shaders to items. (WIP)
+	"itemShaderRender": false,
+	// Reduces terrain lighting to full darkness in absence of moon/torch light.
+	"hardcoreDarkness": false,
+	// Makes terrain fog a little less foggy.
+	"subtleFog": false,
+	// Truly smoothh lighting. Some impact to memory use, chunk loading and frame rate.
+	"hdLightmaps": false,
+	// Slight variation in light values - may prevent banding. Slight performance impact and not usually necessary.
+	"lightmapNoise": false,
+	// Mimics directional light.
+	"diffuseShadingMode": "NORMAL",
+	// Makes light sources less cross-shaped. Chunk loading a little slower. Overall light levels remain similar.
+	"lightSmoothing": false,
+	// Mimics light blocked by nearby objects.
+	"aoShadingMode": "NORMAL",
+	// Setting > 0 may give slightly better FPS at cost of potential flickering when lighting changes.
+	"maxLightmapDelayFrames": 0,
+	// Extra lightmap capacity. Ensure enabled if you are getting `unable to create HD lightmap(s) - out of space' messages.
+	"moreLightmap": true,
+	// Helps with chunk rebuild and also rendering when player is moving or many blocks update.
+	"fastChunkOcclusion": true,
+	// Draws multiple chunks with same view transformation. Much faster, but try without if you see visual defects.
+	"batchedChunkRender": true,
+	// Adjusts quads on some vanilla models (like iron bars) to avoid z-fighting with neighbor blocks.
+	"preventDepthFighting": true,
+	// Forces game to allow up to this many nanoseconds for chunk loading each frame. May prevent chunk load delay at high FPS.
+	"minChunkBudgetNanos": 100000,
+	// Output runtime per-material shader source. For shader development debugging.
+	"shaderDebug": false,
+	// Shows HD lightmap pixels for debug purposes. Also looks cool.
+	"lightmapDebug": false,
+	// Summarizes multiple errors and warnings to single-line entries in the log.
+	"conciseErrors": true,
+	// Writes information useful for bug reports to the game log at startup.
+	"logMachineInfo": true
+}

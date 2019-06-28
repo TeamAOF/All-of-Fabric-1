@@ -1,0 +1,22 @@
+{
+  "delhome": false,
+  "delwarp": true,
+  "rain": true,
+  "repair": true,
+  "tpdeny": false,
+  "tpa": false,
+  "back": false,
+  "setwarp": true,
+  "sun": true,
+  "tpaccept": false,
+  "setspawn": true,
+  "home": false,
+  "fly": true,
+  "spawn": false,
+  "heal": false,
+  "sethome": false,
+  "day": true,
+  "god": true,
+  "rndtp": false,
+  "warp": false
+}

@@ -1,0 +1,5 @@
+{
+  "anvil_level_limit": -1,
+  "ignore_incremental_repair_cost": true,
+  "stop_anvil_breaking": false
+}

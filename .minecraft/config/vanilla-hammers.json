@@ -1,0 +1,9 @@
+{
+  "enableExtraMaterials": true,
+  "enableTaterHammer": true,
+  "enableFull3x3": false,
+  "fullBlockHitbox": false,
+  "alwaysShowSingleBlockHitbox": false,
+  "showSingleBlockWhenSneaking": true,
+  "breakSingleBlockWhenSneaking": true
+}

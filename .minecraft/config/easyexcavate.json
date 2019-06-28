@@ -1,0 +1,30 @@
+{
+  "maxBlocks": 128,
+  "maxRange": 8,
+  "bonusExhaustionMultiplier": 0.325,
+  "debugOutput": false,
+  "enableBlockEntities": false,
+  "reverseBehavior": false,
+  "blacklistBlocks": [
+    "minecraft:stone",
+    "minecraft:sand",
+    "minecraft:gravel",
+    "minecraft:dirt",
+    "minecraft:grass_block",
+    "somemod:example_block_two"
+  ],
+  "blacklistTools": [
+    "minecraft:wooden_sword",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_shovel",
+    "minecraft:wooden_axe",
+    "minecraft:wooden_hoe",
+    "variablepaxels:wooden_paxel",
+    "vanilla-hammers:wooden_hammer"
+  ],
+  "checkHardness": false,
+  "isToolRequired": true,
+  "invertBlockBlacklist": false,
+  "invertToolBlacklist": false,
+  "dontTakeDurability": false
+}

@@ -1,0 +1,9 @@
+{
+  "enableNetherStarsBlock": true,
+  "enableLimestoneGeneration": true,
+  "enableBluestoneGeneration": true,
+  "enableLoveBlockParticles": true,
+  "enableAsphaltEffect": true,
+  "enableNetherStarsBlockEffects": true,
+  "AsphaltSpeedAmplifier": 4
+}

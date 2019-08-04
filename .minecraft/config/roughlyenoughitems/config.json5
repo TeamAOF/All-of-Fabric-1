@@ -1,5 +1,5 @@
 { 
-	"cheating": false,
+	"cheating": true,
 	// The ordering of the items on the item panel.
 	"itemListOrdering": "registry",
 	// The ordering of the items on the item panel.

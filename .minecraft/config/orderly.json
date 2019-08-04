@@ -1,0 +1,32 @@
+{
+  "draw": true,
+  "max_distance": 24,
+  "render_in_f1": false,
+  "height_above": 0.6,
+  "draw_background": true,
+  "background_padding": 2,
+  "background_height": 6,
+  "bar_height": 4,
+  "plate_size": 25,
+  "plate_size_boss": 50,
+  "show_attributes": true,
+  "show_armor": true,
+  "group_armor": true,
+  "color_by_type": false,
+  "hp_text_height": 14,
+  "show_max_h_p": true,
+  "show_current_h_p": true,
+  "show_percentage": true,
+  "show_on_players": true,
+  "show_on_bosses": true,
+  "show_only_focused": false,
+  "enable_debug_info": true,
+  "blacklist": [
+    "minecraft:shulker",
+    "minecraft:armor_stand",
+    "minecraft:cod",
+    "minecraft:salmon",
+    "minecraft:pufferfish",
+    "minecraft:tropical_fish"
+  ]
+}

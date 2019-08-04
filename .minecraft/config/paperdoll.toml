@@ -1,0 +1,8 @@
+render_height = 50
+render_width = 25
+y = 10
+x = 10
+rotation = 20
+change_swim_fly = true
+dynamic_scale = false
+only_activity = false

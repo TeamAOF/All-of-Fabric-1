@@ -2,30 +2,50 @@
     "components": [
         {
             "cachedName": "LWJGL 3",
-            "cachedVersion": "3.2.1",
+            "cachedVersion": "3.2.2",
             "cachedVolatile": true,
             "dependencyOnly": true,
             "uid": "org.lwjgl3",
-            "version": "3.2.1"
+            "version": "3.2.2"
         },
         {
             "cachedName": "Minecraft",
             "cachedRequires": [
                 {
-                    "equals": "3.2.1",
-                    "suggests": "3.2.1",
+                    "equals": "3.2.2",
+                    "suggests": "3.2.2",
                     "uid": "org.lwjgl3"
                 }
             ],
-            "cachedVersion": "1.14.2",
+            "cachedVersion": "1.14.4",
             "important": true,
             "uid": "net.minecraft",
-            "version": "1.14.2"
+            "version": "1.14.4"
         },
         {
-            "cachedName": "FabricLoader",
-            "cachedVersion": "1.14.2+build.7_yarn-0.4.8+build.155",
-            "uid": "net.fabricmc"
+            "cachedName": "Intermediary Mappings",
+            "cachedRequires": [
+                {
+                    "equals": "1.14.4",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "cachedVersion": "1.14.4",
+            "cachedVolatile": true,
+            "dependencyOnly": true,
+            "uid": "net.fabricmc.intermediary",
+            "version": "1.14.4"
+        },
+        {
+            "cachedName": "Fabric Loader",
+            "cachedRequires": [
+                {
+                    "uid": "net.fabricmc.intermediary"
+                }
+            ],
+            "cachedVersion": "0.4.8+build.159",
+            "uid": "net.fabricmc.fabric-loader",
+            "version": "0.4.8+build.159"
         }
     ],
     "formatVersion": 1

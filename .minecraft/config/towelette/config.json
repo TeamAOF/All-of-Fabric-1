@@ -1,3 +1,22 @@
 {
+	"replaceableFluids": false,
+	"fluidlogging": {
+		"barrier": false,
+		"beacon": false,
+		"cauldron": false,
+		"end_portal": false,
+		"farmland": false,
+		"fire": false,
+		"grass_path": false,
+		"leaves": false,
+		"lily_pad": false,
+		"nether_portal": false,
+		"pistons": false,
+		"redstone_dust": true,
+		"shulker_boxes": false,
+		"spawner": false,
+		"structure_void": false,
+		"torches": true
+	},
 	"rebuildStatesOnFluidRegistration": true
 }

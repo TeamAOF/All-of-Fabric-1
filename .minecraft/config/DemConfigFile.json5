@@ -1,7 +1,10 @@
 { 
+	// Prevents listed totems from being activated with a totem activation ritual
 	"TOTEM_BLACK_LIST": null,
+	// Prevents Demesnes from spawning in the listed biomes
 	"BIOME_BLACK_LIST": [ 
 		"river"
 	],
+	// Causes Demesnes to spawn exclusively in the listed biomes.  Takes priority over blacklist.
 	"BIOME_WHITE_LIST": null
 }

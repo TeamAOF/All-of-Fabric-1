@@ -1,12 +1,16 @@
 { 
 	// Tweak that makes placed campfires not be lit by default.
 	"enableCampfireTweak": true,
-	// Tweak that allows harvesting crops when right clicked.
-	"enableCropHarvestTweak": true,
 	/* The timeout that players are kicked after when a keepalive has not been received in the time period.
 	   The default for vanilla is 15000.
 	*/
-	"keepaliveTimeout": 15000,
+	"keepaliveTimeout": 50000,
 	// Should the mod log when a player is timed out.
-	"logOnTimeout": true
+	"logOnTimeout": true,
+	// Allow placing eggs on the ground for a 100% chicken spawn rate.
+	"enableEggPlacement": true,
+	// Show information about the item stored in the item frame you are looking at. (client only)
+	"enableItemFrameInfo": true,
+	// Should splash instant damage potions kill grass & plants it touches.
+	"enablePotionTweak": true
 }

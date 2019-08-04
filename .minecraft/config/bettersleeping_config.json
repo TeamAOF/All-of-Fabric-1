@@ -1,0 +1,11 @@
+{
+  "nightSkippedMessage": "Rise and shine!",
+  "debuffMessage": "You have been awake for {nights} nights and have been given a debuff.",
+  "playersAsleepMessage": "{asleep}/{required} players are now sleeping!",
+  "formatting": [
+    "gold"
+  ],
+  "awakeDebuff": true,
+  "nightsBeforeDebuff": 2,
+  "sleepRecovery": true
+}

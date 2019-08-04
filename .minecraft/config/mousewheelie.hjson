@@ -3,22 +3,23 @@
 	general: {
 		// Set the scroll factor for item scrolling.
 		// To invert the scrolling use negative numbers
-		// default: -1
+		// default: -1.0
 		scroll-factor: -1
-		// Sets when to pick the optimal tool to mine the targetted block.
-		// default: "HOLD_TOOL"
-		tool-pick-mode: HOLD_TOOL
+		// Pick correct tool when middle clicking whilst holding a tool.
+		// (shift-middle-clicking has been moved to the 'Controls' screen)
+		// default: true
+		hold-tool-pick: true
 	}
 	// Change sort modes. Existing sort modes are ALPHABET, RAW_ID and QUANTITY
 	sort: {
 		// Sets the sort mode for sorting via control + middle mouse click.
-		// default: "ALPHABET"
+		// default: ALPHABET
 		control-sort: ALPHABET
 		// Sets the sort mode for sorting via middle mouse click.
-		// default: "RAW_ID"
+		// default: RAW_ID
 		primary-sort: RAW_ID
 		// Sets the sort mode for sorting via shift + middle mouse click.
-		// default: "QUANTITY"
+		// default: QUANTITY
 		shift-sort: QUANTITY
 	}
 	// Configure refill related stuff here.
@@ -32,23 +33,30 @@
 		// Enable/Disable specific rules for how to refill items
 		rules: {
 			// Tries to find any block items
-			// default: true
+			// default: false
 			any-block: true
 			// Try to find similar block items through the block type hierarchy
-			// default: true
+			// default: false
 			block-hierarchy: true
 			// Try to find equal stacks
 			// default: true
 			equal-stacks: true
 			// Try to find other food items
-			// default: true
+			// default: false
 			food: true
 			// Try to find similar items through the item type hierarchy
-			// default: true
+			// default: false
 			item-hierarchy: true
 			// Find items of the same item group
-			// default: true
+			// default: false
 			itemgroup: true
 		}
+		// Refill when dropping items
+		// default: true
+		drop: true
+		// Refill when using items
+		// default: true
+		use: true
 	}
+	hold-tool-pick: true
 }

@@ -1,5 +1,5 @@
 {
-  "freeze": false,
+  "freeze": true,
   "continental": {
     "cliffs": {
       "weight": 0.4,

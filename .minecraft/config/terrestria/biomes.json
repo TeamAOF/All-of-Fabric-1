@@ -1,5 +1,5 @@
 {
-  "freeze": false,
+  "freeze": true,
   "continental": {
     "japanese_maple_forest": {
       "weight": 1.0,

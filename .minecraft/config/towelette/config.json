@@ -16,7 +16,7 @@
 		"shulker_boxes": false,
 		"spawner": false,
 		"structure_void": false,
-		"torches": true
+		"torches": false
 	},
 	"rebuildStatesOnFluidRegistration": true
 }

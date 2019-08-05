@@ -7,9 +7,9 @@
 
 **Latest Release:**\
 *MultiMC:*
-https://github.com/AllOfFabric/AOF/releases/download/3.2.0/All.of.Fabric.3.2.0.zip **(3.2.0)**\
+https://github.com/AllOfFabric/AOF/releases/download/4.1.0beta/AOF-1.14.4-4.1.0.zip **(4.1.0)**\
 *Server:*
-https://github.com/AllOfFabric/AOF/releases/download/3.2.0/All.of.Fabric.Server.3.2.0.rar **(3.2.0)**
+https://github.com/AllOfFabric/AOF/releases/download/4.1.0beta/AOF-SERVER-1.14.4-4.1.0.rar **(4.1.0)**
 
 
 **Changelogs & releases:**\

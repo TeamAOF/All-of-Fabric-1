@@ -1,0 +1,115 @@
+{
+	"version": "1.0.0",
+	"vanilla_pieces": {
+		"oak_button": {
+			"base": "minecraft:oak_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:oak_button"
+		},
+		"spruce_button": {
+			"base": "minecraft:spruce_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:spruce_button"
+		},
+		"birch_button": {
+			"base": "minecraft:birch_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:birch_button"
+		},
+		"jungle_button": {
+			"base": "minecraft:jungle_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:jungle_button"
+		},
+		"acacia_button": {
+			"base": "minecraft:acacia_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:acacia_button"
+		},
+		"dark_oak_button": {
+			"base": "minecraft:dark_oak_planks",
+			"type": "epaddon:button",
+			"piece": "minecraft:dark_oak_button"
+		},
+		"stone_button": {
+			"base": "minecraft:stone",
+			"type": "epaddon:button",
+			"piece": "minecraft:stone_button"
+		},
+		"oak_pressure_plate": {
+			"base": "minecraft:oak_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:oak_pressure_plate"
+		},
+		"spruce_pressure_plate": {
+			"base": "minecraft:spruce_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:spruce_pressure_plate"
+		},
+		"birch_pressure_plate": {
+			"base": "minecraft:birch_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:birch_pressure_plate"
+		},
+		"jungle_pressure_plate": {
+			"base": "minecraft:jungle_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:jungle_pressure_plate"
+		},
+		"acacia_pressure_plate": {
+			"base": "minecraft:acacia_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:acacia_pressure_plate"
+		},
+		"dark_oak_pressure_plate": {
+			"base": "minecraft:dark_oak_planks",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:dark_oak_pressure_plate"
+		},
+		"stone_pressure_plate": {
+			"base": "minecraft:stone",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:stone_pressure_plate"
+		},
+		"iron_pressure_plate": {
+			"base": "minecraft:iron_block",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:heavy_weighted_pressure_plate"
+		},
+		"gold_pressure_plate": {
+			"base": "minecraft:gold_block",
+			"type": "epaddon:pressure_plate",
+			"piece": "minecraft:light_weighted_pressure_plate"
+		},
+		"infested_stone": {
+			"base": "minecraft:stone",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_stone"
+		},
+		"infested_cobblestone": {
+			"base": "minecraft:cobblestone",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_cobblestone"
+		},
+		"infested_stone_bricks": {
+			"base": "minecraft:stone_bricks",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_stone_bricks"
+		},
+		"mossy_stone_bricks": {
+			"base": "minecraft:mossy_stone_bricks",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_mossy_stone_bricks"
+		},
+		"cracked_stone_bricks": {
+			"base": "minecraft:cracked_stone_bricks",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_cracked_stone_bricks"
+		},
+		"chiseled_stone_bricks": {
+			"base": "minecraft:chiseled_stone_bricks",
+			"type": "epaddon:infested",
+			"piece": "minecraft:infested_chiseled_stone_bricks"
+		}
+	}
+}

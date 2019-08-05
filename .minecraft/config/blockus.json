@@ -1,6 +1,7 @@
 {
   "enableNetherStarsBlock": true,
   "enableLimestoneGeneration": true,
+  "enableMarbleGeneration": true,
   "enableBluestoneGeneration": true,
   "enableLoveBlockParticles": true,
   "enableAsphaltEffect": true,

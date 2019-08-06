@@ -9,6 +9,9 @@
     "comment": "In ticks",
     "value": 5.0
   },
+  "Allow World Ticker to work on dedicated server": {
+    "value": false
+  },
   "Make the Dispenser place blocks instead of dropping them": {
     "comment": "Doesn\u0027t replace default behaviours",
     "value": true

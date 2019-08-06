@@ -1,7 +1,7 @@
 {
   "requiredKeys": 10,
   "requiredItem": "battle-towers:boss_key",
-  "bossLootTable": "battle-towers:boss_key",
+  "bossLootTable": "battle-towers:boss_loot",
   "blacksmithLootTable": "battle-towers:blacksmith_loot",
   "entranceLootTable": "battle-towers:base_loot",
   "jungleLootTable": "battle-towers:jungle_loot",

@@ -12,7 +12,10 @@
       "extrapieces:slab": "terrestria:redwood_slab",
       "extrapieces:fence": "terrestria:redwood_fence",
       "extrapieces:fence_gate": "terrestria:redwood_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_redwood_log": {
     "base": "terrestria:stripped_redwood_log",
@@ -45,7 +48,10 @@
       "extrapieces:slab": "terrestria:hemlock_slab",
       "extrapieces:fence": "terrestria:hemlock_fence",
       "extrapieces:fence_gate": "terrestria:hemlock_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_hemlock_log": {
     "base": "terrestria:stripped_hemlock_log",
@@ -78,7 +84,10 @@
       "extrapieces:slab": "terrestria:rubber_slab",
       "extrapieces:fence": "terrestria:rubber_fence",
       "extrapieces:fence_gate": "terrestria:rubber_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_rubber_log": {
     "base": "terrestria:stripped_rubber_log",
@@ -111,7 +120,10 @@
       "extrapieces:slab": "terrestria:cypress_slab",
       "extrapieces:fence": "terrestria:cypress_fence",
       "extrapieces:fence_gate": "terrestria:cypress_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_cypress_log": {
     "base": "terrestria:stripped_cypress_log",
@@ -144,7 +156,10 @@
       "extrapieces:slab": "terrestria:willow_slab",
       "extrapieces:fence": "terrestria:willow_fence",
       "extrapieces:fence_gate": "terrestria:willow_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_willow_log": {
     "base": "terrestria:stripped_willow_log",
@@ -177,7 +192,10 @@
       "extrapieces:slab": "terrestria:japanese_maple_slab",
       "extrapieces:fence": "terrestria:japanese_maple_fence",
       "extrapieces:fence_gate": "terrestria:japanese_maple_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_japanese_maple_log": {
     "base": "terrestria:stripped_japanese_maple_log",
@@ -210,7 +228,10 @@
       "extrapieces:slab": "terrestria:rainbow_eucalyptus_slab",
       "extrapieces:fence": "terrestria:rainbow_eucalyptus_fence",
       "extrapieces:fence_gate": "terrestria:rainbow_eucalyptus_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "stripped_rainbow_eucalyptus_log": {
     "base": "terrestria:stripped_rainbow_eucalyptus_log",
@@ -237,7 +258,10 @@
       "extrapieces:slab": "terrestria:sakura_slab",
       "extrapieces:fence": "terrestria:sakura_fence",
       "extrapieces:fence_gate": "terrestria:sakura_fence_gate"
-    }
+    },
+    "uncraftable": [
+      "extrapieces:wall"
+    ]
   },
   "basalt": {
     "base": "terrestria:basalt",

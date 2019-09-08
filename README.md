@@ -7,10 +7,10 @@
 
 **Latest Release:**\
 *MultiMC:*
-https://github.com/AllOfFabric/AOF-Normal/releases/download/4.2.0/AOF-NORMAL-1.14.4-4.2.0.zip 
+https://github.com/AllOfFabric/AOF-Normal/releases/download/4.2.0/AOF-NORMAL-1.14.4-4.2.0.zip  
 **(4.2.0)**\
 *Server:*
-https://github.com/AllOfFabric/AOF-Normal/releases/download/4.2.0/AOF-NORMAL-SERVER-1.14.4-4.2.0.zip 
+https://github.com/AllOfFabric/AOF-Normal/releases/download/4.2.0/AOF-NORMAL-SERVER-1.14.4-4.2.0.zip \
 **(4.2.0)**
 
 

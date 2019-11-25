@@ -1,4 +1,4 @@
-# AOF 1 for 1.14.4 by AK9
+# AOF 1 by AK9
 ***Modpack containing the latest &amp; best Fabric mods*** \
 *If you find any issues/bugs related to a specific mod, use their Issue Tracker. Only use this Issue Tracker if it's pack related.*\
 \

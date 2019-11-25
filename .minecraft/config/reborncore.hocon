@@ -1,0 +1,12 @@
+config {
+    # Disable this is you don't want seasonal easter eggs
+    "Enable Seasonal Easter Eggs"=null
+    # When enabled machines that try to insert power into a machine with a lower teir will smoke
+    "Energy smoking"=null
+    # Screen corner for HUD, 0 is top left, 1 is top right, 2 is bottom right and 3 is bottom left
+    "Stack Info Corner"=null
+    # X padding for HUD 
+    "Stack Info X"=null
+    # Y padding for HUD 
+    "Stack Info Y"=null
+}

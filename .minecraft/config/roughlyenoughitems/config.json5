@@ -1,0 +1,62 @@
+{ 
+	"general": { 
+		// Declares whether cheating mode is on.
+		"cheating": false,
+		// Declares whether REI is visible.
+		"overlayVisible": true
+	},
+	"appearance": { 
+		// The ordering of the items on the item panel.
+		"itemListOrdering": "REGISTRY_ASCENDING",
+		// Declares the appearance of REI windows.
+		"darkTheme": true,
+		/* Whether REI should render entry's overlay.
+		   Example: Enchantment Glint
+		*/
+		"renderEntryExtraOverlay": true,
+		// The ordering of the items on the item panel.
+		"recipeScreenType": "ORIGINAL",
+		// Declares the position of the search field.
+		"searchFieldLocation": "CENTER",
+		// Declares the position of the item list panel.
+		"mirrorItemPanel": false,
+		// Declares the maximum amount of recipes displayed in a page if possible.
+		"maxRecipePerPage": 3,
+		// Declares whether REI should lighten the button if hovered.
+		"lighterButtonHover": true,
+		"clickableRecipeArrows": true,
+		"itemCheatingMode": "REI_LIKE",
+		// Declares the appearance of recipe's border.
+		"lightGrayRecipeBorder": false,
+		// Declares whether REI should append mod names to item stacks.
+		"appendModNames": true,
+		// Declares how the scrollbar in villager screen should act.
+		"villagerScreenPermanentScrollBar": false,
+		// Declares whether if entry list widget is scrolled.
+		"scrollingEntryListWidget": false
+	},
+	"modules": { 
+		// Declares whether the craftable filter button is enabled.
+		"enableCraftableOnlyButton": true,
+		"toastDisplayedOnCopyIdentifier": true,
+		// Declares whether the utils buttons are shown.
+		"showUtilsButtons": false,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": false,
+		// Declares whether REI should fix closing container with tab.
+		"fixTabCloseContainer": false
+	},
+	"technical": { 
+		/* To disable REI's default plugin.
+		   Don't change this unless you understand what you are doing!
+		*/
+		"loadDefaultPlugin": true,
+		// Declares the command used to change gamemode.
+		"gamemodeCommand": "/gamemode {gamemode}",
+		// Declares the command used in servers to cheat items.
+		"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+		// Declares the command used to change weather.
+		"weatherCommand": "/weather {weather}",
+		"registerRecipesInAnotherThread": true
+	}
+}

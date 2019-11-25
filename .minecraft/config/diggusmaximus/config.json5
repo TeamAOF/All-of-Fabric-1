@@ -1,0 +1,20 @@
+{
+	// Mod enabled or disabled
+	"enabled": true,
+	// Activation key
+	"keybinding": "key.keyboard.grave.accent",
+	// Should mine diagonally
+	"mineDiag": true,
+	// Maximum number of blocks to mine
+	"maxMinedBlocks": 40,
+	// Maximum distance from start to mine
+	"maxMineDistance": 10,
+	// Automatically pick up drops
+	"autoPickup": true,
+	// Tool required to excavate
+	"requiresTool": false,
+	// Should tool take durability
+	"toolDuribility": true,
+	// Should player get exhaustion
+	"playerExhaustion": true
+}

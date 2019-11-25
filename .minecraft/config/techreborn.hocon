@@ -1,0 +1,416 @@
+"Distillation_tower" {
+    # Distillation Tower Max Energy (Value in EU)
+    DistillationTowerMaxEnergy=null
+    # Distillation Tower Max Input (Value in EU)
+    DistillationTowerMaxInput=null
+}
+aesu {
+    # AESU Max Energy (Value in EU)
+    AesuMaxEnergy=null
+    # AESU Max Input (Value in EU)
+    AesuMaxInput=null
+    # AESU Max Output (Value in EU)
+    AesuMaxOutput=null
+}
+"alloy_smelter" {
+    # Alloy Smelter Max Energy (Value in EU)
+    AlloySmelterMaxEnergy=null
+    # Alloy Smelter Max Input (Value in EU)
+    AlloySmelterMaxInput=null
+}
+"assembling_machine" {
+    # Assembling Machine Max Energy (Value in EU)
+    AssemblingMachineMaxEnergy=null
+    # Assembling Machine Max Input (Value in EU)
+    AssemblingMachineMaxInput=null
+}
+autocrafter {
+    # AutoCrafting Table Max Input (Value in EU)
+    AutoCrafterInput=null
+    # AutoCrafting Table Max Energy (Value in EU)
+    AutoCrafterMaxEnergy=null
+}
+cable {
+    # When true an uninsulated cable will cause damage to entities
+    uninsulatedElectrocutionDamage=null
+    # When true an uninsulated cable will create a spark when an entity touches it
+    uninsulatedElectrocutionParticles=null
+    # When true an uninsulated cable will create a spark sound when an entity touches it
+    uninsulatedElectrocutionSound=null
+}
+centrifuge {
+    # Centrifuge Max Energy (Value in EU)
+    CentrifugeMaxEnergy=null
+    # Centrifuge Max Input (Value in EU)
+    CentrifugeMaxInput=null
+}
+"charge_bench" {
+    # Charge Bench Max Energy (Value in EU)
+    ChargeBenchMaxEnergy=null
+    # Charge Bench Max Input (Value in EU)
+    ChargeBenchMaxInput=null
+    # Charge Bench Max Output (Value in EU)
+    ChargeBenchMaxOutput=null
+}
+"chemical_reactor" {
+    # Chemical Reactor Max Energy (Value in EU)
+    ChemicalReactorMaxEnergy=null
+    # Chemical Reactor Max Input (Value in EU)
+    ChemicalReactorMaxInput=null
+}
+"chunk_loader" {
+    # Chunk Loader Max Radius
+    ChunkLoaderMaxRadius=null
+}
+compressor {
+    # Compressor Max Input (Value in EU)
+    CompressorInput=null
+    # Compressor Max Energy (Value in EU)
+    CompressorMaxEnergy=null
+}
+"diesel_generator" {
+    # Diesel Generator Energy Per Tick (Value in EU)
+    DieselGeneratorEnergyPerTick=null
+    # Diesel Generator Max Energy (Value in EU)
+    DieselGeneratorMaxEnergy=null
+    # Diesel Generator Max Output (Value in EU)
+    DieselGeneratorMaxOutput=null
+    # Diesel Generator Tank Capacity
+    DieselGeneratorTankCapacity=null
+}
+"digital_chest" {
+    # Maximum amount of items a Digital Chest can store
+    DigitalChestMaxStorage=null
+}
+"dragon_egg_siphoner" {
+    # Dragon Egg Siphoner Energy Per Tick (Value in EU)
+    DragonEggSiphonerEnergyPerTick=null
+    # Dragon Egg Siphoner Max Energy (Value in EU)
+    DragonEggSiphonerMaxEnergy=null
+    # Dragon Egg Siphoner Max Output (Value in EU)
+    DragonEggSiphonerMaxOutput=null
+}
+"electric_furnace" {
+    # Electric Furnace Max Input (Value in EU)
+    ElectricFurnaceInput=null
+    # Electric Furnace Max Energy (Value in EU)
+    ElectricFurnaceMaxEnergy=null
+}
+extractor {
+    # Extractor Max Input (Value in EU)
+    ExtractorInput=null
+    # Extractor Max Energy (Value in EU)
+    ExtractorMaxEnergy=null
+}
+fluidreplicator {
+    # Fluid Replicator Max Energy (Value in EU)
+    FluidReplicatorMaxEnergy=null
+    # Fluid Replicator Max Input (Value in EU)
+    FluidReplicatorMaxInput=null
+}
+"fusion_reactor" {
+    # Fusion Reactor Max Coil size (Radius)
+    FusionReactorMaxCoilSize=null
+    # Fusion Reactor Max Energy (Value in EU)
+    FusionReactorMaxEnergy=null
+    # Fusion Reactor Max Input (Value in EU)
+    FusionReactorMaxInput=null
+    # Fusion Reactor Max Output (Value in EU)
+    FusionReactorMaxOutput=null
+}
+"gas_generator" {
+    # Gas Generator Energy Per Tick (Value in EU)
+    GasGeneratorEnergyPerTick=null
+    # Gas Generator Max Energy (Value in EU)
+    GasGeneratorMaxEnergy=null
+    # Gas Generator Max Output (Value in EU)
+    GasGeneratorMaxOutput=null
+    # Gas Generator Tank Capacity
+    GasGeneratorTankCapacity=null
+}
+general {
+    # Dispensers will open scrapboxes
+    DispenserScrapbox=null
+    # Input from dots side, output from other sides, like in IC2.
+    IC2TransformersStyle=null
+    # Enable Gem armor and tools
+    enableGemTools=null
+    # Allow refunding items used to craft the manual
+    manualRefund=null
+}
+generator {
+    # Solid Fuel Generator Energy Output Amount (Value in EU)
+    GeneratorEnergyOutput=null
+    # Solid Fuel Generator Max Energy (Value in EU)
+    GeneratorMaxEnergy=null
+    # Solid Fuel Generator Max Output (Value in EU)
+    GeneratorMaxOutput=null
+}
+grinder {
+    # Grinder Max Input (Value in EU)
+    GrinderInput=null
+    # Grinder Max Energy (Value in EU)
+    GrinderMaxEnergy=null
+}
+idsu {
+    # IDSU Max Energy (Value in EU)
+    IdsuMaxEnergy=null
+    # IDSU Max Input (Value in EU)
+    IdsuMaxInput=null
+    # IDSU Max Output (Value in EU)
+    IdsuMaxOutput=null
+}
+"implosion_compressor" {
+    # Implosion Compressor Max Energy (Value in EU)
+    ImplosionCompressorMaxEnergy=null
+    # Implosion Compressor Max Input (Value in EU)
+    ImplosionCompressorMaxInput=null
+}
+"industrial_electrolyzer" {
+    # Industrial Electrolyzer Max Energy (Value in EU)
+    IndustrialElectrolyzerMaxEnergy=null
+    # Industrial Electrolyzer Max Input (Value in EU)
+    IndustrialElectrolyzerMaxInput=null
+}
+"industrial_furnace" {
+    # Industrial Blast Furnace Max Energy (Value in EU)
+    IndustrialFurnaceMaxEnergy=null
+    # Industrial Blast Furnace Max Input (Value in EU)
+    IndustrialFurnaceMaxInput=null
+}
+"industrial_grinder" {
+    # Industrial Grinder Max Energy (Value in EU)
+    IndustrialGrinderMaxEnergy=null
+    # Industrial Grinder Max Input (Value in EU)
+    IndustrialGrinderMaxInput=null
+}
+"industrial_sawmill" {
+    # Industrial Sawmill Max Energy (Value in EU)
+    IndustrialSawmillMaxEnergy=null
+    # Industrial Sawmill Max Input (Value in EU)
+    IndustrialSawmillMaxInput=null
+}
+"iron_machine" {
+    # Multiplier for vanilla furnace item cook time
+    "cooking_scale"=null
+    # Multiplier for vanilla furnace item burn time
+    "fuel_scale"=null
+}
+lesu {
+    # LESU Extra I/O Multiplier
+    LesuExtraIO=null
+    # LESU Max Energy Per Block (Value in EU)
+    LesuMaxEnergyPerBlock=null
+    # LESU Base Output (Value in EU)
+    LesuMaxOutput=null
+}
+"lightning_rod" {
+    # Base amount of energy per strike (Value in EU)
+    LightningRodBaseStrikeEnergy=null
+    # Chance of lightning striking a rod (Range: 0-70)
+    LightningRodChanceOfStrike=null
+    # Lightning Rod Max Energy (Value in EU)
+    LightningRodMaxEnergy=null
+    # Lightning Rod Max Output (Value in EU)
+    LightningRodMaxOutput=null
+}
+loot {
+    # When true TechReborn will add ingots, machine frames and circuits to The End loot chests.
+    enableEndLoot=null
+    # When true TechReborn will add ingots, machine frames and circuits to Nether loot chests.
+    enableNetherLoot=null
+    # When true TechReborn will add ingots, machine frames and circuits to OverWorld loot chests.
+    enableOverworldLoot=null
+}
+"matter_fabricator" {
+    # Matter Fabricator EU per amplifier unit, multiply this with the rate for total EU
+    MatterFabricatorEnergyPerAmp=null
+    # Matter Fabricator Fabrication Rate, amount of amplifier units per UUM
+    MatterFabricatorFabricationRate=null
+    # Matter Fabricator Max Energy (Value in EU)
+    MatterFabricatorMaxEnergy=null
+    # Matter Fabricator Max Input (Value in EU)
+    MatterFabricatorMaxInput=null
+}
+nuke {
+    # Should the nuke explode, set to false to prevent block damage
+    enabled=null
+    # Nuke fuse time (ticks)
+    fusetime=null
+    # Nuke explision radius
+    radius=null
+}
+"plasma_generator" {
+    # Plasma Generator Energy Per Tick (Value in EU)
+    PlasmaGeneratorEnergyPerTick=null
+    # Plasma Generator Max Energy (Value in EU)
+    PlasmaGeneratorMaxEnergy=null
+    # Plasma Generator Max Output (Value in EU)
+    PlasmaGeneratorMaxOutput=null
+    # Plasma Generator Tank Capacity
+    PlasmaGeneratorTankCapacity=null
+}
+"player_detector" {
+    # Player Detector Energy Consumption per second (Value in EU)
+    PlayerDetectorEUPerSecond=null
+    # Player Detector Max Energy (Value in EU)
+    PlayerDetectorMaxEnergy=null
+    # Player Detector Max Input (Value in EU)
+    PlayerDetectorMaxInput=null
+}
+power {
+    # Energy Capacity for Lithium Batpack (FE)
+    LithiumBatpackCharge=null
+    # Energy Capacity for Advanced Chainsaw (FE)
+    advancedChainsawCharge=null
+    # Energy Capacity for Advanced Drill (FE)
+    advancedDrillCharge=null
+    # Energy Capacity for Advanced Jackhammer (FE)
+    advancedJackhammerCharge=null
+    # Energy Capacity for Basic Chainsaw (FE)
+    basicChainsawCharge=null
+    # Energy Capacity for Basic Drill (FE)
+    basicDrillCharge=null
+    # Energy Capacity for Basic Jackhammer (FE)
+    basicJackhammerCharge=null
+    # Energy Capacity for Clocking Device (FE)
+    cloakingDeviceCharge=null
+    # Cloacking device energy usesage (FE)
+    clockingDeviceEnergyUsage=null
+    # Energy Capacity for Energy Crystal (FE)
+    energyCrystalMaxCharge=null
+    # Energy Capacity for Industrial Chainsaw (FE)
+    industrialChainsawCharge=null
+    # Energy Capacity for Industrial Drill (FE)
+    industrialDrillCharge=null
+    # Energy Capacity for Industrial Jachammer (FE)
+    industrialJackhammerCharge=null
+    # Energy Capacity for Lapotron Crystal (FE)
+    lapotronCrystalMaxCharge=null
+    # Energy Capacity for Lapotron Pack (FE)
+    lapotronPackCharge=null
+    # Energy Capacity for Lapotronic Orb (FE)
+    lapotronicOrbMaxCharge=null
+    # Energy Capacity for Nano Saber (FE)
+    nanoSaberCharge=null
+    # Energy Capacity for Omni Tool (FE)
+    omniToolCharge=null
+    # Energy Capacity for Rock Cutter (FE)
+    rockCutterCharge=null
+}
+"quantum_chest" {
+    # Maximum amount of items a Quantum Chest can store
+    QuantumChestMaxStorage=null
+}
+"quantum_tank" {
+    # Maximum amount of millibuckets a Quantum Tank can store
+    QuantumTankMaxStorage=null
+}
+recycler {
+    # Recycler Max Input (Value in EU)
+    RecyclerInput=null
+    # Recycler Max Energy (Value in EU)
+    RecyclerMaxEnergy=null
+}
+"rolling_machine" {
+    # Rolling Machine Energy Per Tick (Value in EU)
+    RollingMachineEnergyPerTick=null
+    # Rolling Machine Run Time
+    RollingMachineEnergyRunTime=null
+    # Rolling Machine Max Energy (Value in EU)
+    RollingMachineMaxEnergy=null
+    # Rolling Machine Max Input (Value in EU)
+    RollingMachineMaxInput=null
+}
+scrapboxinator {
+    # Scrapboxinator Max Energy (Value in EU)
+    ScrapboxinatorMaxEnergy=null
+    # Scrapboxinator Max Input (Value in EU)
+    ScrapboxinatorMaxInput=null
+}
+"semifluid_generator" {
+    # Semifluid Generator Energy Per Tick (Value in EU)
+    SemifluidGeneratorEnergyPerTick=null
+    # Semifluid Generator Max Energy (Value in EU)
+    SemifluidGeneratorMaxEnergy=null
+    # Semifluid Generator Max Output (Value in EU)
+    SemifluidGeneratorMaxOutput=null
+    # Semifluid Generator Tank Capacity
+    SemifluidGeneratorTankCapacity=null
+}
+solarPanelAdvanced {
+    # Generation rate during day for Advanced Solar Panel (Value in FE)
+    advancedDayRate=null
+    # Generation rate during night for Advanced Solar Panel (Value in FE)
+    advancedNightRate=null
+}
+solarPanelBasic {
+    # Generation rate during day for Basic Solar Panel (Value in FE)
+    basicDayRate=null
+    # Generation rate during night for Basic Solar Panel (Value in FE)
+    basicNightRate=null
+}
+solarPanelIndustrial {
+    # Generation rate during day for Industrial Solar Panel (Value in FE)
+    industrialDayRate=null
+    # Generation rate during night for Industrial Solar Panel (Value in FE)
+    industrialNightRate=null
+}
+solarPanelQuantum {
+    # Generation rate during day for Quantum Solar Panel (Value in FE)
+    quantumDayRate=null
+    # Generation rate during night for Quantum Solar Panel (Value in FE)
+    quantumNightRate=null
+}
+solarPanelUltimate {
+    # Generation rate during day for Ultimate Solar Panel (Value in FE)
+    ultimateDayRate=null
+    # Generation rate during night for Ultimate Solar Panel (Value in FE)
+    ultimateNightRate=null
+}
+"solid_canning_machine" {
+    # Solid Canning Machine Max Energy (Value in EU)
+    solidCanningMachineMaxInput=null
+}
+"thermal_generator" {
+    # Thermal Generator Energy Per Tick (Value in EU)
+    ThermalGeneratorEnergyPerTick=null
+    # Thermal Generator Max Energy (Value in EU)
+    ThermalGeneratorMaxEnergy=null
+    # Thermal Generator Max Output (Value in EU)
+    ThermalGeneratorMaxOutput=null
+    # Thermal Generator Tank Capacity
+    ThermalGeneratorTankCapacity=null
+}
+upgrades {
+    # Energy storage behavior extra power
+    "energy_storage"=null
+    # Overclocker behavior power multipiler
+    "overclcoker_power"=null
+    # Overclocker behavior speed multipiler
+    "overclcoker_speed"=null
+}
+vacuumfreezer {
+    # Vacuum Freezer Max Input (Value in EU)
+    VacuumFreezerInput=null
+    # Vacuum Freezer Max Energy (Value in EU)
+    VacuumFreezerMaxEnergy=null
+}
+"water_mill" {
+    # Water Mill Energy Multiplier
+    WaterMillEnergyPerTick=null
+    # Water Mill Max Energy (Value in EU)
+    WaterMillMaxEnergy=null
+    # Water Mill Max Output (Value in EU)
+    WaterMillMaxOutput=null
+}
+"wind_mill" {
+    # Wind Mill Energy Per Tick (Value in EU)
+    WindMillEnergyPerTick=null
+    # Wind Mill Max Energy (Value in EU)
+    WindMillMaxEnergy=null
+    # Wind Mill Max Output (Value in EU)
+    WindMillMaxOutput=null
+    # Wind Mill Thunder Multiplier
+    WindMillThunderMultiplier=null
+}

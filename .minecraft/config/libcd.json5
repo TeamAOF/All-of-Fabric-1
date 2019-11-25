@@ -1,0 +1,11 @@
+{
+	/* The set of tweakers to load in addition to the main tweakers.
+	   Located in a data pack at `data/<namespace>/tweakers_<tweaker_subset>`.
+	   Set to "" for no additional tweakers.
+	*/
+	"tweaker_subset": "",
+	/* Whether dev-env files, like the test tweaker, should be loaded.
+	   Will always be treated as true in a mod development environment.
+	*/
+	"dev_mode": false
+}

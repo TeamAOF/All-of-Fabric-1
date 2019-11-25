@@ -1,8 +1,0 @@
-{
-  "loadSound": "entity.experience_orb.pickup",
-  "alertSound": "entity.experience_orb.pickup",
-  "triggerStrings": [],
-  "textFormatName": "GOLD",
-  "highlightTriggers": false,
-  "playPingSound": false
-}

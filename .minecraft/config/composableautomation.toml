@@ -1,9 +1,0 @@
-[recipes]
-enableExploding = true
-enableBurning = true
-enableSoaking = true
-[tweaks]
-enableAutoPlanting = true
-enableDispenserFeeding = true
-enableDispenserToggling = true
-dispenserFeedingWhitelist = ["minecraft:golden_apple", "minecraft:golden_carrot", "minecraft:wheat", "minecraft:carrot", "minecraft:potato", "minecraft:beetroot", "minecraft:wheat_seeds", "minecraft:pumpkin_seeds", "minecraft:melon_seeds", "minecraft:beetroot_seeds", "minecraft:porkchop", "minecraft:beef", "minecraft:chicken", "minecraft:rabbit", "minecraft:mutton", "minecraft:rotten_flesh", "minecraft:cod", "minecraft:salmon", "minecraft:clownfish", "minecraft:pufferfish", "minecraft:dandelion", "minecraft:hay_block", "minecraft:seagrass", "minecraft:bamboo", "minecraft:sweet_berries"]

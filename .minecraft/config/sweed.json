@@ -1,7 +1,0 @@
-{
-  "spreadChance": 0.5,
-  "spreadMinLightLevel": 7,
-  "maxSpreadPlants": 3,
-  "maxSpreadAttempts": 12,
-  "aggressiveSpread": true
-}

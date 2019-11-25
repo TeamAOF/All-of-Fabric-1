@@ -1,7 +1,0 @@
-{
-	"attackSpeeds": {},
-	"defaultAttackSpeed": 4.0,
-	"disableAttacksDuringAttackCooldownByDefault": false,
-	"asreloadCommand": true,
-	"enabled": false
-}

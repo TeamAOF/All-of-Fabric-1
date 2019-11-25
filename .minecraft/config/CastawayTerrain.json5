@@ -1,8 +1,0 @@
-{ 
-	// Average distance between volcano islands: lower value = more volcano islands.
-	"volcano_island_frequency": 1000,
-	// Size of the volcano island (including surround shallow ocean) in blocks. Changing this will basically scale everything up/down.
-	"volcano_size": 128,
-	// Disable ore-gen. Useful for skyblock-style worlds where you want to get resources some other way.
-	"disable_ore_gen": true
-}
